@@ -1,6 +1,7 @@
 
 function Image() {
-  return <img src="./assets/voting.jpg" alt="Voting Image" />;
+    return <></>;
+//   return <img src="./assets/background.png" alt="Voting Image" />;
 }
 
 export default Image;

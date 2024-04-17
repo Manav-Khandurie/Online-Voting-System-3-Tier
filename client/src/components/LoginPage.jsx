@@ -1,5 +1,4 @@
 import Image from './Image';
-import '../styles/LoginPage';
 import SignupForm from './SignupForm';
 
 function LoginPage() {
